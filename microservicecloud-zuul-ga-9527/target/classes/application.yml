@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      name: microservicecloud-zuul-9527
